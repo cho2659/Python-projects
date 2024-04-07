@@ -1,1 +1,0 @@
-text_area.config(width=event.width // 10, height=event.height // 20)
